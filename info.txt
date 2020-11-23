@@ -12,3 +12,4 @@ Updated C4_DELL
 
 Updated C2_LENOVO
 
+Updated C7_DELL
