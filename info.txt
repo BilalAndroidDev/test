@@ -9,3 +9,6 @@ Updated from DELL and Commited befor lenovo
 Updated C1_DELL
 
 Updated C4_DELL
+
+Updated C2_LENOVO
+
