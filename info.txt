@@ -17,3 +17,5 @@ Updated C5_LENOVO
 Updated C8_LENOVO
 
 Updated C9_LENOVO
+
+Updated C10_DELL
