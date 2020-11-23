@@ -15,5 +15,3 @@ Updated C2_LENOVO
 Updated C5_LENOVO
 
 Updated C8_LENOVO
-
-Updated C6_LENOVO
