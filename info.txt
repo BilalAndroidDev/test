@@ -1,8 +1,0 @@
-1
->> DELL
-
-<<<<<<< HEAD
->> Dell
-=======
->> LENOVO
->>>>>>> 8bd6f424b17a489e048759ebadf5aad2dbda237e
